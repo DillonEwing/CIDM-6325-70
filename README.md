@@ -2,4 +2,4 @@
 
 
 Working with AI:
-The use if ChatGPT was used to read the final draft and check for errors in logic and grammer. 
+The use of ChatGPT was used to read the final draft and check for errors in logic and grammer. 
